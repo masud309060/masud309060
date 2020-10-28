@@ -34,7 +34,7 @@
 
 <a href="https://github.com/masud309060">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud309060&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud309060=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud309060&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/masud309060/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%Masud%Rana-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/masud309060/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Masud%20Rana-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:masud309060@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
