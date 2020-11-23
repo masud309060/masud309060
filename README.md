@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mathematics at University of Govt. Titumir College, Dhaka.
-<-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. --> 
+- 💼 &nbsp; Working as a Development Associate at Programming Hero Team. 
 - 🌱 &nbsp; Learning more about Sowfware design and development.
 - ✍️ &nbsp; Pursuing Graphic Design and travelling is my hobbit.
 
