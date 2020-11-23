@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Md Masud Rana </h1>
-<h3 align="center">🚀 Junior web developer 🚀</h3>
+<h3 align="center">🚀 Front end developer | MERN developer 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mathematics at University of Govt. Titumir College, Dhaka.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+<-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. --> 
 - 🌱 &nbsp; Learning more about Sowfware design and development.
 - ✍️ &nbsp; Pursuing Graphic Design and travelling is my hobbit.
 
