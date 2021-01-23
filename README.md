@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-of-md-masud-rana.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.md-masud-rana.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://portfolio-of-md-masud-rana.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Md%Masud%Rana.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/masud309060/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-masud309060-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/masud309060/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-masud309060__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:masud309060@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
