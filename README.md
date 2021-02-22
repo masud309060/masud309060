@@ -12,11 +12,6 @@
 - ✍️ &nbsp; Pursuing Graphic Design and travelling is my hobbit.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-##Cirtificate from Programming Hero 
-<img src="https://courses.programming-hero.com/certs/1-3042.png"/>
-
-
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -39,6 +34,13 @@
 
 <br/>
 
+<h4>**🏆🏆Cirtificate from Programming Hero🏆🏆** </h4>
+<a href="https://courses.programming-hero.com/certs/1-3042.png">
+  <img src="https://courses.programming-hero.com/certs/1-3042.png"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/masud309060">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud309060&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud309060&theme=buefy&layout=compact" />
@@ -48,9 +50,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<h5 align="center">
-  <a href="https://portfolio-of-md-masud-rana.netlify.app/"> Portfolio Website Link 
-</h5>
+<h4 align="center">
+  <a href="https://portfolio-of-md-masud-rana.netlify.app/"> 🌐 Portfolio Website Link 🌐
+</h4>
 
 <p align="center">
 <a href="https://portfolio-of-md-masud-rana.netlify.app/"><img alt="https://portfolio-of-md-masud-rana.netlify.app/" src="https://img.shields.io/badge/Website-www.adityavsingh.com/-blue?style=flat-square&logo=google-chrome"></a>
@@ -59,4 +61,4 @@
 <a href="mailto:masud309060@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [masud309060](https://github.com/masud309060)
+⭐️ From [masud309060](https://github.com/masud309060)😃 
