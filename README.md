@@ -20,8 +20,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  
- <br/>
  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -42,14 +40,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud309060&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+<br/> <br/> 
 
 <h4>**🏆🏆Cirtificate from Programming Hero🏆🏆** </h4>
 <a href="https://courses.programming-hero.com/certs/1-3042.png">
   <img src="https://courses.programming-hero.com/certs/1-3042.png" />
 </a>
 
-<br/> 
+<br/> <br/> 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
