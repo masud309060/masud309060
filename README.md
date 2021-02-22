@@ -13,6 +13,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+##Cirtificate from Programming Hero 
+<img src="https://courses.programming-hero.com/certs/1-3042.png"/>
+
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -45,8 +48,12 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<h5 align="center">
+  <a href="https://portfolio-of-md-masud-rana.netlify.app/"> Portfolio Website Link 
+</h5>
+
 <p align="center">
-<a href="https://portfolio-of-md-masud-rana.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://portfolio-of-md-masud-rana.netlify.app/"><img alt="https://portfolio-of-md-masud-rana.netlify.app/" src="https://img.shields.io/badge/Website-www.adityavsingh.com/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/masud309060/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-masud309060-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/masud309060/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-masud309060__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:masud309060@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
