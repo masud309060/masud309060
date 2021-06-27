@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Md Masud Rana </h1>
-<h3 align="center">🚀Junior web developer | Front end developer | MERN developer 🚀</h3>
+<h3 align="center">🚀 JavaScript | React | MERN Stack Developer 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png" /> 
 
@@ -42,10 +42,12 @@
 
 <br/> <br/> 
 
-<h4>**🏆🏆Cirtificate from Programming Hero🏆🏆** </h4>
-<a href="https://courses.programming-hero.com/certs/1-3042.png" target="_blank" rel="noopener">
-  <img src="https://courses.programming-hero.com/certs/1-3042.png" />
-</a>
+### **🏆🏆Certificate from Programming Hero🏆🏆**
+![PH-Certificate](https://raw.githubusercontent.com/masud309060/portfolio/main/src/images/resume/1-3042.png)
+
+
+### **🏆🏆Certificate from Artificial Brix🏆🏆**
+![AB-Certificate](https://raw.githubusercontent.com/masud309060/portfolio/main/src/images/resume/masudrana_web.jpg)
 
 <br/> <br/> 
 
@@ -64,4 +66,4 @@
 <a href="mailto:masud309060@gmail.com" target="_blank" rel="noopener"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [masud309060](https://github.com/masud309060)😃 
+### ⭐️ From [masud309060](https://github.com/masud309060) 😃 
