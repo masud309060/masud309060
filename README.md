@@ -6,30 +6,33 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Mathematics at University of Govt. Titumir College, Dhaka.
-- 💼 &nbsp; Working as a Development Associate at Programming Hero Team. 
+- 🎓 &nbsp; Studying Dept. of Mathematics at University of Govt. Titumir College, Dhaka.
+- 💼 &nbsp; Done an Internship as web developer in Arficial Brix, India. 
 - 🌱 &nbsp; Learning more about Sowfware design and development.
-- ✍️ &nbsp; Pursuing Graphic Design and travelling is my hobbit.
+- ✍️ &nbsp; Pursuing Web Design and Development and travelling is my hobbit.
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-- 🖥 &nbsp;
+  
+- 🖥 &nbsp; 
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
@@ -51,11 +54,10 @@
 
 <br/> <br/> 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me 
 
-<h3 align="center">
-  <a href="https://portfolio-of-md-masud-rana.netlify.app/" target="_blank" rel="noopener"> 🌐 Portfolio Website Link 🌐 </a> 
-</h3>
+
+## [ 🌐 Portfolio Link 🌐 ](https://portfolio-of-md-masud-rana.netlify.app/)
 
 <br/>
 
