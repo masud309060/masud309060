@@ -66,20 +66,10 @@
 </div>
 
 
-
-
 <br/> <br/> 
 
 ### 🤝🏻 &nbsp;Connect with Me 
-
-
-## [ 🌐 Portfolio Link 🌐 ](https://portfolio-of-md-masud-rana.netlify.app/)
-
-<br/>
-
 <p align="center">
-  
-
 <a href="https://portfolio-of-md-masud-rana.netlify.app/" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/website?color=blue&label=Website&logo=google-chrome&style=flat-square&up_message=MD%20MASUD%20RANA&url=https%3A%2F%2Fportfolio-of-md-masud-rana.netlify.app%2F"></a>
 <a href="https://www.linkedin.com/in/masud309060/" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-masud309060-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/masud309060/" target="_blank" rel="noopener"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-masud309060__-blue?style=flat-square&logo=instagram"></a>
