@@ -1,4 +1,4 @@
-# Hi, I'm Md Masud Rana 
+# Hi, I'm Masud
 **🚀 JavaScript | React | MERN Stack Developer 🚀** 
 <!-- ![](https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png) -->
 
@@ -21,9 +21,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=3742fa)
+  
+
+- 🔗 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -70,10 +73,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me 
 <p align="center">
-<a href="https://portfolio-of-md-masud-rana.netlify.app/" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/website?color=blue&label=Website&logo=google-chrome&style=flat-square&up_message=MD%20MASUD%20RANA&url=https%3A%2F%2Fportfolio-of-md-masud-rana.netlify.app%2F"></a>
-<a href="https://www.linkedin.com/in/masud309060/" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-masud309060-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/masud309060/" target="_blank" rel="noopener"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-masud309060__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:masud309060@gmail.com" target="_blank" rel="noopener"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://portfolio-of-md-masud-rana.netlify.app/" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/website?color=blue&label=Website&logo=google-chrome&style=for-the-badge&up_message=MD%20MASUD%20RANA&url=https%3A%2F%2Fportfolio-of-md-masud-rana.netlify.app%2F"></a>
+<a href="https://www.linkedin.com/in/masud309060/" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-masud309060-blue?style=for-the-badge&logo=linkedin"></a>
+<!-- <a href="https://www.instagram.com/masud309060/" target="_blank" rel="noopener"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-masud309060__-blue?style=for-the-badge&logo=instagram"></a> -->
+<a href="mailto:masud309060@gmail.com" target="_blank" rel="noopener"><img alt="Email" src="https://img.shields.io/badge/Email-masud309060@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ### ⭐️ From [masud309060](https://github.com/masud309060) 😃 
