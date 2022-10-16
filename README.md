@@ -6,9 +6,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Dept. of Mathematics at University of Govt. Titumir College, Dhaka.
-- 💼 &nbsp; Done an Internship as web developer in Arficial Brix, India. 
+- 💼 &nbsp; Done an Internship as a web developer in Arficial Brix, India. 
+- 💼 &nbsp; Currently working as a Software Developer on Orangetoolz in Uttara, Dhaka. 
 - 🌱 &nbsp; Learning more about Sowfware design and development.
-- ✍️ &nbsp; Pursuing Web Design and Development and travelling is my hobbit.
+- ✍️ &nbsp; Pursuing Software Design, Development and traveling is my hobbit. 
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
@@ -17,20 +18,33 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=e84393)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Mui](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui&logoColor=563D7C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=3742fa)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   
+  
+  
+- 🛒 &nbsp;
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=3742fa)
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=3742fa)
+  ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-333333?style=flat&logo=redux-saga&logoColor=3742fa)
+  ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react-router&logoColor=3742fa)
+  ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=react-hook-form&logoColor=3742fa) 
 
+  
 - 🔗 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  
  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=3498db)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=3498db)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -39,7 +53,7 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm)
   
 - 🖥 &nbsp; 
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
